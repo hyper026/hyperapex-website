@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Hyper Apex Consultancy Firm",
+  "url": "https://hyperapex.co.ke/",
+  "telephone": "+254719682640",
+  "email": "hyperapexconsult@gmail.com",
+  "description": "Professional taxation, eTIMS compliance, legal, conveyancing, immigration, company registration and regulatory advisory services in Kenya.",
+  "areaServed": "Kenya",
+  "address": {"@type": "PostalAddress", "addressLocality": "Nairobi", "addressCountry": "KE"},
+  "serviceType": ["Taxation and eTIMS Compliance", "Commercial and Conveyancing Services", "Legal Services", "Immigration and Expatriate Services", "Company Registration and Corporate Services", "Trade and Regulatory Advisory"]
+}
