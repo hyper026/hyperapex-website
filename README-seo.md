@@ -1,1 +1,0 @@
-SEO improvements are implemented directly in index.html. This file documents that the homepage includes canonical URL, Open Graph metadata, Twitter Card metadata, and Schema.org ProfessionalService structured data.
